@@ -1,0 +1,22 @@
+[Eagle]
+Version="05 06 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="E:/Documents/eagle/lbr/1dah.lbr"
+UsedLibrary="E:/Documents/eagle/lbr/SparkFun.lbr"
+UsedLibrary="E:/Documents/eagle/lbr/adafruit.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="22 77 621 476"
+State=2
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"
